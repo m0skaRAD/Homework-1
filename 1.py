@@ -1,4 +1,4 @@
-
+number = 12
 name = "Arkadii "
 surname = "Pavliuk"
 b = True
@@ -24,3 +24,6 @@ print(name + surname)
 
 if True:
     print("Hello")
+
+import second
+second.print("Me", 15)
